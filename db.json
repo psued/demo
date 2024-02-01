@@ -1,9 +1,9 @@
 {
   "review":[
   {
-        "name": 'lorem',
-        "email": 'Ipsum@delorem.com',
-        "message": 'dolor sit amet'
+        "name": "lorem",
+        "email": "Ipsum@delorem.com",
+        "message": "dolor sit amet"
       }
   ]
 }
